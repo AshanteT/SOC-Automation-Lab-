@@ -6,16 +6,16 @@ Developed a SOC automation lab to enhance threat detection, streamline incident 
 
 ### Skills Learned 
 
-Scripting and Automation
-Firewall Configuration
-Cloud Infrastructure Management
+- Scripting and Automation
+- Firewall Configuration
+- Cloud Infrastructure Management
 
 ### Tools Used
 
-  DigitalOcean
-  Wuzah
-  TheHive
-  Shuffle
+- DigitalOcean
+- Wuzah
+- TheHive
+- Shuffle
   
 
 ### Steps
