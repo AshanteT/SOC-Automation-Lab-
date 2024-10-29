@@ -20,7 +20,5 @@ Developed a SOC automation lab to enhance threat detection, streamline incident 
 
 ### Steps
 
-1. SOC Automation Project Drawing
-2. 
 
 
