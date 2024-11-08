@@ -34,7 +34,7 @@ Developed a SOC automation lab to enhance threat detection, streamline incident 
 
 <img width="751" alt="Firewall R2" src="https://github.com/user-attachments/assets/7e23c389-eea3-48b2-99ae-82cb382d81c8">
 
-Create workflow in Shuffle
+3. Create workflow in Shuffle
 
 <img width="957" alt="shuffle workflow" src="https://github.com/user-attachments/assets/3cb41fd4-3304-4f13-98b0-bbc578d98dab">
 
@@ -44,4 +44,6 @@ Make mimikatz alerts
 
 <img width="305" alt="Hive Alert" src="https://github.com/user-attachments/assets/d82ffbf5-8cc5-4aff-a4e8-f9aaa7596518">
 
-Click on the link to view the recording of my lab:   https://youtu.be/p494-P_eU9Q             https://youtu.be/PAwasEWfKdA
+Click on the link to view the recording of my lab:   
+- https://youtu.be/p494-P_eU9Q
+- https://youtu.be/PAwasEWfKdA
