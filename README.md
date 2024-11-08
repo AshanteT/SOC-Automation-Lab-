@@ -44,4 +44,6 @@ Make mimikatz alerts
 
 <img width="305" alt="Hive Alert" src="https://github.com/user-attachments/assets/d82ffbf5-8cc5-4aff-a4e8-f9aaa7596518">
 
-Click on the link to view the recording of my lab: COMING SOON
+Click on the link to view the recording of my lab: 
+https://youtu.be/p494-P_eU9Q
+https://youtu.be/PAwasEWfKdA
